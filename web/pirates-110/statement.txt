@@ -1,0 +1,2 @@
+Find a way to login as admin on <a href='http://pirates.tpctf.com'>this site</a>.
+Hint: No hints. Have fun.

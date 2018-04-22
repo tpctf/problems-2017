@@ -1,0 +1,2 @@
+Make the server give you the flag.  Navigate to the problem page from <a href="http://methods.tpctf.com">here</a>.
+Hint: I don't think you get it.

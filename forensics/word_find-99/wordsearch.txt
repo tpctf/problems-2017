@@ -1,0 +1,47 @@
+                                                                TPCTF Word Find of the Month - June 2017
+
+Instructions: This is a mix between a crossword puzzle and a word find.  Find the answers to the questions below and then find the word in the word search above.
+Write the letter in the corresponding position of the word given in clue find a flag!
+
+For example:  If the answer is "pie", pos. 2 would be i.
+
+juojsevbwuklxeodxawegshilimhsjlinpssaqovwdwgwsomzoiqdxmlilovtctfnottteflagrand
+duhndyifvnsnueehpohpmzbkjceozmzbzmpdxdobvcdeyglhfpbzjgpvnzqbrtztxnotkqofeaxjdf
+dfkzjwranpoanmulwmoqvvikqyuxllawkpqdwfoidhzbxuqxqbqdflguulrltamymmqumgjzvchdil
+drskqrytnxmernggmzxagshnlkqqjxybgenapbooocozsiupyiecafmyxdkxulybephjwfxpswczjr
+kzvaxwbunogmcqnqeojmuzxsdpgnrftokdmpemozlkbcounmqsgmgxgybclhttvttjtztmncbbszae
+sxrerpbpcnnotnwefcauwttvljwnqtzgwvdgqcoookgaotklxswvfqmqoskgnfclkeavpbjfohajvz
+xguydlwgpqnnnqmqklfeentbowprqfogvrvxcroptolockersyjewxkqfouutpspobswiiuwgqubig
+ckfzeicdhufgptjfrwrdatuzxbnpvjjnqfvzwyjqbgffmmzkfffpytkyuvgxtsfssqpfrkrjfgsabi
+zypkfznklpymtkgdxraashtjqqegwzsnupqbtidarluqfixzfkzvgtwsflxnttyiisbrrpsjgkggqf
+dnvjeuzvrrxugtjhjpkncttcpbvxhjkjppusuthqbhhhkhhyldmwdblzxlzvtieeneeheahwvniwox
+lyzjhlabbzcysxsmqqakkdgikzgvplojmzogrhaeepjangrqteavtuxwvwfnlexepeexenvwucrygs
+xfsrmwlbbgkwfltfuvkeurtrwilqlokzwintuhfiqrbnmzvondvcucxdzfspxeeofwcsavqqouctpz
+ltzhrmzzybomktvxwkzyutfegvhsjimgidqxthhahkahgkhhzjojwawojxvcbgecyjgrrzjwholwxx
+ubpngggissrynttyhrbixeotkhqzozjjgdrmpbnvnjkkssthytumfmfmswgosheuivrgflncsqrfrg
+octlqxarkdoxuvtimntttutouubrreuwzioedmutijezzaisimcnrcxgjccnfejetjejejrkkxqbzq
+erxjpbvozvfskpdqhqczqddshigcmzotdqvedhxhfthhbughonstwtlennzrmepeeujeenikcbzxgn
+rnrvulpnufoxfidnqhajnvhehzvkvhdibgllslllltlelzvllejiokvvbkrijplnbokdnzizrstpji
+Knzmimbqfxoiofyameghssrvdmxluhinopgjbyyflafbesydjzbpskqegcaaamavaafnaackltshtp
+pxayopmfvxyhskfjbvpjnnomdkghfqwneoktfzoslcgmvnfuiewgettpacaarduqlzxiscgpoiqcjz
+zidjuyfjfjfgfafhbgqvbcaomncjhnncqtocargllghhizfobozxrqdslvsykmwzxtbhfphlmbcwou
+wtzeirebasezcykfghkrsaxynsixtjsqgfvuvanluaifcwuijsvkkgzeedajuqiqjdjegbotjqptmg
+dquofuzgzshmpdewfarukouttecdxhzkofnspddilvvguerhfxhptebbzvaaaanmakaazaakvoixqf
+yhpfllhqjykgqdnbvfcqlmtyucnwiwquomytptrxtithqxzmtbckeoureparpqcbmbdyfyvbuxltjq
+zbgscbxxivqnsncwveowhkgezlravonrgkhvkrflchuzmjrgwvsikkjrkkarkowgrluwudkthcdsmg
+axwtebvoxoebpuzbxglgkgnaqcspkuqdfbiiefhliujsyfzoderihnoksaaazgamoaeaavgalegbtq
+omfalsealarmareyoureadingthisthisnottheflagrepeatthisnottheflegwhetdiditellyou
+
+1  -  3 letter word for negation (pos. 1)
+2  -  1 __ 1 = 0, 1 __ 0 = 1, 0 __ 1 = 1, 0 __ 0 = 0 (pos. 2)
+3  -  1 + A = ___ (pos. 1 of word form)
+4  -  A transistorized computer built at the MIT Lincoln Laboratory (pos 1 of the pronunciation)
+5  -  A printer company that used to make computers (pos. 1)
+6  -  Brainf*ck, Ping Pong, etc. (pos. 1)
+7  -  A application development platform by Google (pos. 1)
+8  -  Operation Tovar took down this famous piece of ransomware (pos. 7)
+9  -  Popular Chinese internet company (pos. 2)
+10 -  The company behind VirusTotal (pos. 1 or pos. 4)
+
+Flag: ___ ___ ___ ___ ___ ___ ___ ___ ___ ____8583698472738370766571847970737868847269798472698270766571
+       1   2   3   4   5   6   7   8   9   10

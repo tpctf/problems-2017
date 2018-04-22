@@ -1,0 +1,2 @@
+I was making an <a href="encode.py">encryption program</a>, but it is far from perfect. Instead of make the encryption work, I decided to just encrypt everything 100 times. Here's the encrypted flag: <a href="encoded.zip">encoded.zip</a>.
+Hint: I bet the encryption works at least most of the time.

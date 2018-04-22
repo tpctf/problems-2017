@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = tpctf{g1t_id3nt1f1c4tion_s0_c00l}
+	email = why is this even necessary
